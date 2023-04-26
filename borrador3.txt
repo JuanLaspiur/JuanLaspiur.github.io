@@ -1,0 +1,27 @@
+ <div class="res_conteiner_main">
+        <h1>Conf Bs As</h1>
+        <p>
+          Bs As llega por primera vez a Argentina. Un evento para compartir con
+          nuestra comunidad el conocimiento y experiencia de los expertos que
+          estan creando el futuro de Internet. Ven a conocer miembros del
+          evento, a otros estudiantes de Codo a Codo y los oradores del primer
+          nivel que tenemos para ti ¡Te esperamos!
+        </p>
+        <button id="boton1">Quiero ser orador</button>
+        <button id="boton2">Comprar tickets</button>
+      </div>
+
+
+      
+
+        </div>
+        <div class="caja_hawaii haw2">
+          <h5>Bs-As Octubre</h5>
+          <p>
+            Buenos Aires es la provincia y la localidad más grande del estado de Argentina, en los Estados Unidos. Honolulu es la más suerña de entre las principales ciudades estaunidenses. Aunque el nombre de Honolulu se refiere al área
+            urbana en la costa sureste de a isla de Oahu, la ciudad y el condado de Honolu han formado una ciudad condado consolidada que cubre toda la ciudad (aproximadamente 600 km2 de superficie).
+
+          </p>
+          <button id="boton_hawaii">Conoce más</button>
+
+        </div>
